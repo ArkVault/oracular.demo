@@ -133,10 +133,10 @@
           "type": "WIDGET",
           "bbox": {
             "left": "0.6%",
-            "right": "89.6%",
+            "right": "82.7%",
             "top": "91.7%",
             "bottom": "4.0%",
-            "width": "9.8%",
+            "width": "16.7%",
             "height": "4.3%"
           },
           "widgetId": "widget_29",
@@ -866,7 +866,7 @@
                 ]
               },
               "iconProps": {
-                "color": "#000",
+                "color": "var(--primary)",
                 "size": 14
               }
             }
@@ -1051,7 +1051,7 @@
       "home": []
     }
   ],
-  "timestamp": 1678080224256,
+  "timestamp": 1678127493611,
   "header": {
     "layout": {
       "LARGE": "layout_58"
