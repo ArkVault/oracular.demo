@@ -1,8 +1,9 @@
 {
   "devEnv": {
     "prod": {
-      "portalUrl": "https://www.arcgis.com",
-      "clientId": "experienceBuilder"
+      "portalUrl": "https://oracular.maps.arcgis.com",
+      "clientId": "lmryelXKo9507djc",
+      "isWebTier": false
     }
   }
 }
