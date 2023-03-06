@@ -772,20 +772,21 @@
           "linkParam": {},
           "scale": "Fit",
           "imageParam": {
-            "url": "${appResourceUrl}/images/widget_28/1677909579203.png",
-            "originalUrl": "${appResourceUrl}/images/widget_28/1677909579203.png",
-            "fileName": "1677909579203.png",
-            "originalName": "0 LOGO FINAL.png",
+            "url": "${appResourceUrl}/images/widget_28/1678130853357.png",
+            "originalUrl": "${appResourceUrl}/images/widget_28/1678130853357.png",
+            "fileName": "1678130853357.png",
+            "originalName": "logo2023.png",
             "imgSourceType": "BY_UPLOAD",
             "fileFormat": "image/png",
-            "originalId": "1677909579203",
+            "originalId": "1678130853357",
             "isUseCompress": false,
             "originalWidth": 1920,
-            "originalHeight": 1080
+            "originalHeight": 888
           },
           "imageDisplayQualityMode": "ORIGINAL",
           "imgSourceType": "",
-          "srcExpression": null
+          "srcExpression": null,
+          "imageFillMode": "FIT"
         },
         "styleConfig": {}
       },
@@ -1051,7 +1052,7 @@
       "home": []
     }
   ],
-  "timestamp": 1678127493611,
+  "timestamp": 1678130880693,
   "header": {
     "layout": {
       "LARGE": "layout_58"
