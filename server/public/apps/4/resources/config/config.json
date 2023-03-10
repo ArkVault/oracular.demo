@@ -53,39 +53,17 @@
     "layout_51": {
       "type": "FIXED",
       "order": [
-        "0",
         "2",
         "3",
         "4",
         "5"
       ],
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "50%",
-            "top": "706px",
-            "width": "400px",
-            "height": "60px",
-            "bottom": "25px"
-          },
-          "widgetId": "widget_24",
-          "setting": {
-            "lockParent": true,
-            "autoProps": {
-              "top": true,
-              "left": false,
-              "right": true
-            },
-            "hCenter": true,
-            "vCenter": false
-          }
-        },
         "2": {
           "type": "WIDGET",
           "bbox": {
             "left": "78.4%",
-            "right": "4.0%",
+            "right": "6.00%",
             "top": "2.0%",
             "bottom": "93.9%",
             "width": "17.6%",
@@ -156,10 +134,10 @@
           "type": "WIDGET",
           "bbox": {
             "left": "0.0%",
-            "right": "71.6%",
+            "right": "66.2%",
             "top": "20.8%",
             "bottom": "11.2%",
-            "width": "28.4%",
+            "width": "33.8%",
             "height": "68.0%"
           },
           "widgetId": "widget_30",
@@ -177,83 +155,6 @@
         }
       },
       "label": "Map FixedLayout"
-    },
-    "layout_52": {
-      "type": "FIXED",
-      "order": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_8"
-        },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_9"
-        },
-        "2": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "600px",
-            "height": "400px"
-          },
-          "widgetId": "widget_26"
-        },
-        "3": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "500px"
-          },
-          "widgetId": "widget_31"
-        },
-        "4": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "450px",
-            "height": "300px"
-          },
-          "widgetId": "widget_32"
-        }
-      },
-      "label": "Controller layout"
-    },
-    "layout_53": {
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_32",
-          "bbox": {
-            "left": 0,
-            "top": 0,
-            "bottom": 0,
-            "right": 0
-          }
-        }
-      },
-      "order": [
-        "0"
-      ],
-      "label": "Open widget layout"
     },
     "layout_58": {
       "type": "FIXED"
@@ -291,27 +192,6 @@
     "layout_60": {
       "type": "FIXED",
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "50%",
-            "top": "706px",
-            "width": "400px",
-            "height": "60px",
-            "bottom": "25px"
-          },
-          "widgetId": "widget_24",
-          "setting": {
-            "lockParent": true,
-            "autoProps": {
-              "top": true,
-              "left": false,
-              "right": true
-            },
-            "hCenter": true,
-            "vCenter": false
-          }
-        },
         "2": {
           "type": "WIDGET",
           "bbox": {
@@ -336,87 +216,9 @@
         }
       },
       "order": [
-        "0",
         "2"
       ],
       "label": "Map FixedLayout"
-    },
-    "layout_61": {
-      "type": "FIXED",
-      "order": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_8"
-        },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_9"
-        },
-        "2": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "600px",
-            "height": "400px"
-          },
-          "widgetId": "widget_26"
-        },
-        "3": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "500px"
-          },
-          "widgetId": "widget_31"
-        },
-        "4": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "450px",
-            "height": "300px"
-          },
-          "widgetId": "widget_32"
-        }
-      },
-      "label": "Controller layout"
-    },
-    "layout_62": {
-      "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_26",
-          "bbox": {
-            "left": 0,
-            "top": 0,
-            "bottom": 0,
-            "right": 0
-          }
-        }
-      },
-      "order": [
-        "0"
-      ],
-      "label": "Open widget layout"
     },
     "layout_63": {
       "type": "FIXED",
@@ -451,27 +253,6 @@
     "layout_64": {
       "type": "FIXED",
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "50%",
-            "top": "706px",
-            "width": "400px",
-            "height": "60px",
-            "bottom": "25px"
-          },
-          "widgetId": "widget_24",
-          "setting": {
-            "lockParent": true,
-            "autoProps": {
-              "top": true,
-              "left": false,
-              "right": true
-            },
-            "hCenter": true,
-            "vCenter": false
-          }
-        },
         "2": {
           "type": "WIDGET",
           "bbox": {
@@ -496,91 +277,158 @@
         }
       },
       "order": [
-        "0",
         "2"
       ],
       "label": "Map FixedLayout"
     },
-    "layout_65": {
+    "layout_67": {
       "type": "FIXED",
+      "label": "First",
       "order": [
         "0",
         "1",
         "2",
         "3",
-        "4"
+        "4",
+        "5"
       ],
       "content": {
         "0": {
           "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_8"
+          "bbox": {
+            "left": "24.4%",
+            "right": "18.7%",
+            "top": "6.4%",
+            "bottom": "86.4%",
+            "width": "56.8%",
+            "height": "7.2%"
+          },
+          "widgetId": "widget_33",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
         },
         "1": {
           "type": "WIDGET",
-          "bbox": {},
-          "widgetId": "widget_9"
+          "bbox": {
+            "left": "24.6%",
+            "right": "18.6%",
+            "top": "19.9%",
+            "bottom": "72.9%",
+            "width": "56.8%",
+            "height": "7.2%"
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
         },
         "2": {
           "type": "WIDGET",
           "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "600px",
-            "height": "400px"
+            "left": "24.7%",
+            "right": "18.5%",
+            "top": "33.7%",
+            "bottom": "59.1%",
+            "width": "56.8%",
+            "height": "7.2%"
           },
-          "widgetId": "widget_26"
+          "widgetId": "widget_35",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
         },
         "3": {
           "type": "WIDGET",
           "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "500px"
+            "left": "24.6%",
+            "right": "18.6%",
+            "top": "47.4%",
+            "bottom": "45.4%",
+            "width": "56.8%",
+            "height": "7.2%"
           },
-          "widgetId": "widget_31"
+          "widgetId": "widget_36",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
         },
         "4": {
           "type": "WIDGET",
           "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "450px",
-            "height": "300px"
+            "left": "24.6%",
+            "right": "18.6%",
+            "top": "61.2%",
+            "bottom": "31.6%",
+            "width": "56.8%",
+            "height": "7.2%"
           },
-          "widgetId": "widget_32"
-        }
-      },
-      "label": "Controller layout"
-    },
-    "layout_66": {
-      "content": {
-        "0": {
+          "widgetId": "widget_37",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "5": {
           "type": "WIDGET",
-          "widgetId": "widget_26",
           "bbox": {
-            "left": 0,
-            "top": 0,
-            "bottom": 0,
-            "right": 0
-          }
+            "left": "24.2%",
+            "right": "19.0%",
+            "top": "74.9%",
+            "bottom": "17.9%",
+            "width": "56.8%",
+            "height": "7.2%"
+          },
+          "widgetId": "widget_38",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
         }
-      },
-      "order": [
-        "0"
-      ],
-      "label": "Open widget layout"
-    },
-    "layout_67": {
-      "type": "FIXED",
-      "label": "First"
+      }
     },
     "layout_68": {
       "type": "FIXED",
@@ -596,13 +444,15 @@
           "canZoom": true,
           "canHome": true,
           "canSearch": false,
-          "canLayers": false,
+          "canLayers": true,
           "canLocate": true,
           "canMeasure": true,
           "canFullScreen": true,
           "canScaleBar": true,
           "canSelect": false,
-          "canSelectState": false
+          "canSelectState": false,
+          "canBaseMap": false,
+          "canNavigation": true
         },
         "isUseCustomMapState": false,
         "initialMapState": null,
@@ -623,6 +473,10 @@
         {
           "dataSourceId": "dataSource_1",
           "mainDataSourceId": "dataSource_1"
+        },
+        {
+          "dataSourceId": "dataSource_9",
+          "mainDataSourceId": "dataSource_9"
         }
       ],
       "style": {
@@ -642,86 +496,6 @@
         }
       }
     },
-    "widget_24": {
-      "id": "widget_24",
-      "uri": "widgets/common/controller/",
-      "config": {
-        "behavior": {
-          "onlyOpenOne": true,
-          "displayType": "STACK",
-          "vertical": false,
-          "size": {
-            "widget_26": {
-              "width": 527,
-              "height": 278
-            }
-          }
-        },
-        "appearance": {
-          "space": 0,
-          "advanced": false,
-          "card": {
-            "showLabel": false,
-            "labelGrowth": 10,
-            "avatar": {
-              "type": "primary",
-              "size": "default",
-              "shape": "circle"
-            }
-          }
-        }
-      },
-      "layouts": {
-        "controller": {
-          "LARGE": "layout_52",
-          "MEDIUM": "layout_61",
-          "SMALL": "layout_65"
-        },
-        "_openwidget": {
-          "LARGE": "layout_53",
-          "MEDIUM": "layout_62",
-          "SMALL": "layout_66"
-        }
-      },
-      "widgets": [
-        "widget_8",
-        "widget_9"
-      ],
-      "version": "1.10.0",
-      "label": "Widget Controller"
-    },
-    "widget_8": {
-      "id": "widget_8",
-      "uri": "widgets/arcgis/map-layers/",
-      "config": {
-        "useMapWidget": true
-      },
-      "useMapWidgetIds": [
-        "widget_23"
-      ],
-      "version": "1.10.0",
-      "label": "Map Layers"
-    },
-    "widget_9": {
-      "id": "widget_9",
-      "uri": "widgets/arcgis/legend/",
-      "config": {},
-      "useMapWidgetIds": [
-        "widget_23"
-      ],
-      "version": "1.10.0",
-      "label": "Legend"
-    },
-    "widget_26": {
-      "uri": "widgets/common/table/",
-      "version": "1.10.0",
-      "config": {
-        "layersConfig": [],
-        "arrangeType": "TABS"
-      },
-      "id": "widget_26",
-      "label": "Table"
-    },
     "widget_27": {
       "uri": "widgets/common/search/",
       "version": "1.10.0",
@@ -732,23 +506,115 @@
         "recentSearchesMaxNumber": 6,
         "resultMaxNumber": 6,
         "hint": "",
-        "isUseCurrentLoation": true,
-        "isShowRecentSearches": true
+        "isUseCurrentLoation": false,
+        "isShowRecentSearches": true,
+        "datasourceConfig": [
+          {
+            "configId": "config_0",
+            "icon": null,
+            "label": "ArcGIS World Geocoding Service",
+            "hint": "",
+            "useUtility": {
+              "utilityId": "utility_1"
+            },
+            "searchServiceType": "GeocodeService",
+            "singleLineFieldName": "SingleLine",
+            "isSupportSuggest": true,
+            "outputDataSourceId": "widget_27_output_config_0",
+            "addressFields": [
+              {
+                "jimuName": "Default Address",
+                "alias": "Default Address",
+                "type": "STRING",
+                "name": "Default Address"
+              },
+              {
+                "jimuName": "Address or Place",
+                "alias": "Address or Place",
+                "type": "STRING",
+                "name": "Address or Place"
+              },
+              {
+                "jimuName": "Address2",
+                "alias": "Address2",
+                "type": "STRING",
+                "name": "Address2"
+              },
+              {
+                "jimuName": "Address3",
+                "alias": "Address3",
+                "type": "STRING",
+                "name": "Address3"
+              },
+              {
+                "jimuName": "Neighborhood",
+                "alias": "Neighborhood",
+                "type": "STRING",
+                "name": "Neighborhood"
+              },
+              {
+                "jimuName": "City",
+                "alias": "City",
+                "type": "STRING",
+                "name": "City"
+              },
+              {
+                "jimuName": "County",
+                "alias": "County",
+                "type": "STRING",
+                "name": "County"
+              },
+              {
+                "jimuName": "State",
+                "alias": "State",
+                "type": "STRING",
+                "name": "State"
+              },
+              {
+                "jimuName": "ZIP",
+                "alias": "ZIP",
+                "type": "STRING",
+                "name": "ZIP"
+              },
+              {
+                "jimuName": "ZIP4",
+                "alias": "ZIP4",
+                "type": "STRING",
+                "name": "ZIP4"
+              },
+              {
+                "jimuName": "Country",
+                "alias": "Country",
+                "type": "STRING",
+                "name": "Country"
+              }
+            ],
+            "displayFields": [
+              {
+                "jimuName": "Default Address",
+                "alias": "Default Address",
+                "type": "STRING",
+                "name": "Default Address"
+              }
+            ],
+            "defaultAddressFieldName": "Default Address"
+          }
+        ]
       },
       "id": "widget_27",
       "label": "Search",
       "style": {
         "borderRadius": {
           "number": [
-            0,
-            0,
-            0,
-            0
+            20,
+            20,
+            20,
+            20
           ],
           "unit": "px"
         },
         "background": {
-          "color": "var(--light)",
+          "color": "var(--primary)",
           "fillType": "fill",
           "image": {
             "url": ""
@@ -759,7 +625,16 @@
           "color": "var(--primary)",
           "width": "0px"
         }
-      }
+      },
+      "useDataSources": [],
+      "outputDataSources": [
+        "widget_27_output_config_0"
+      ],
+      "useUtilities": [
+        {
+          "utilityId": "utility_1"
+        }
+      ]
     },
     "widget_28": {
       "uri": "widgets/common/image/",
@@ -817,12 +692,12 @@
             "regular": {
               "background": {
                 "color": "transparent",
-                "fillType": "fill"
+                "fillType": "fit"
               },
               "border": {
                 "type": "solid",
                 "color": "rgba(0,0,0,0.28)",
-                "width": "0.5px"
+                "width": "0px"
               },
               "text": {
                 "color": "var(--dark-600)",
@@ -845,8 +720,8 @@
             },
             "hover": {
               "background": {
-                "color": "rgba(0,0,0,0.28)",
-                "fillType": "fill"
+                "color": "",
+                "fillType": "fit"
               },
               "border": {
                 "type": "solid",
@@ -854,8 +729,8 @@
                 "width": "0px"
               },
               "text": {
-                "color": "#000",
-                "size": "14px"
+                "color": "var(--dark)",
+                "size": "17px"
               },
               "borderRadius": {
                 "unit": "px",
@@ -868,7 +743,7 @@
               },
               "iconProps": {
                 "color": "var(--primary)",
-                "size": 14
+                "size": 17
               }
             }
           }
@@ -995,29 +870,665 @@
         }
       }
     },
-    "widget_31": {
-      "uri": "widgets/arcgis/suitability-modeler/",
-      "version": "1.6.0",
-      "label": "Suitability Modeler",
-      "config": {
-        "allowExport": true,
-        "displayLabel": true,
-        "serviceUrl": null,
-        "itemId": null,
-        "itemTitle": null
-      },
-      "id": "widget_31"
-    },
-    "widget_32": {
-      "uri": "widgets/common/chart/",
+    "widget_33": {
+      "uri": "widgets/common/button/",
       "version": "1.10.0",
-      "label": "Chart",
+      "label": "Button 2",
       "config": {
-        "tools": {
-          "cursorEnable": true
+        "functionConfig": {
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678405717379.png",
+            "position": "LEFT"
+          },
+          "textExpression": {
+            "name": "Natural Color",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Natural Color\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": []
+          },
+          "text": "",
+          "toolTip": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--light)",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#000",
+                "size": 32
+              }
+            }
+          }
         }
       },
-      "id": "widget_32"
+      "id": "widget_33",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
+    },
+    "widget_34": {
+      "uri": "widgets/common/button/",
+      "version": "1.10.0",
+      "label": "Button 3",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678405733440.png",
+            "position": "LEFT"
+          },
+          "textExpression": {
+            "name": "CHL-A & sediments",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"CHL-A & sediments\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "text": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--light)",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#000",
+                "size": 32
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_34",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
+    },
+    "widget_35": {
+      "uri": "widgets/common/button/",
+      "version": "1.10.0",
+      "label": "Button 4",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "Turbidity",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Turbidity\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "text": "",
+          "toolTip": "",
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678423386141.png",
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#f0f0f0",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#f0f0f0",
+                "size": 32
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_35",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
+    },
+    "widget_36": {
+      "uri": "widgets/common/button/",
+      "version": "1.10.0",
+      "label": "Button 5",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678425668679.png",
+            "position": "LEFT"
+          },
+          "textExpression": {
+            "name": "Nitrates",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Nitrates\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "text": "",
+          "toolTip": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--light)",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#000",
+                "size": 32
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_36",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
+    },
+    "widget_37": {
+      "uri": "widgets/common/button/",
+      "version": "1.10.0",
+      "label": "Button 6",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678421271658.png",
+            "position": "LEFT"
+          },
+          "textExpression": {
+            "name": "Harmful Algae Bloom",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Harmful Algae Bloom\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "text": "",
+          "toolTip": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--light)",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#000",
+                "size": 32
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_37",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
+    },
+    "widget_38": {
+      "uri": "widgets/common/button/",
+      "version": "1.10.0",
+      "label": "Button 7",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678426002729.png",
+            "position": "LEFT"
+          },
+          "textExpression": {
+            "name": "CDOM",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"CDOM\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          },
+          "text": "",
+          "toolTip": ""
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "transparent",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "rgba(0,0,0,0.28)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-600)",
+                "size": "14px",
+                "bold": true
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "var(--light)",
+                "size": 33
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.28)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--success-400)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark)",
+                "size": "14px",
+                "bold": true,
+                "italic": false
+              },
+              "borderRadius": {
+                "number": [
+                  40,
+                  40,
+                  40,
+                  40
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#000",
+                "size": 32
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_38",
+      "style": {
+        "borderRadius": {
+          "number": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [],
+      "useDataSourcesEnabled": true
     }
   },
   "exbVersion": "1.10.0",
@@ -1044,15 +1555,159 @@
       "sourceLabel": "BaseM",
       "itemId": "bc5be177898d4feaa44f9ef2ebe37c52",
       "portalUrl": "https://oracular.maps.arcgis.com"
+    },
+    "dataSource_9": {
+      "id": "dataSource_9",
+      "type": "WEB_MAP",
+      "sourceLabel": "CDOM map",
+      "itemId": "70899d8cc04d43ed9101211fec4c76ef",
+      "portalUrl": "https://oracular.maps.arcgis.com"
+    },
+    "widget_27_output_config_0": {
+      "id": "widget_27_output_config_0",
+      "type": "FEATURE_LAYER",
+      "label": "ArcGIS World Geocoding Service",
+      "originDataSources": [],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": false,
+      "schema": {
+        "label": "ArcGIS World Geocoding Service",
+        "idField": "objectid",
+        "fields": {
+          "Default Address": {
+            "jimuName": "Default Address",
+            "alias": "Default Address",
+            "type": "STRING",
+            "name": "Default Address"
+          },
+          "objectid": {
+            "jimuName": "objectid",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "objectid"
+          },
+          "Address or Place": {
+            "jimuName": "Address or Place",
+            "alias": "Address or Place",
+            "type": "STRING",
+            "name": "Address or Place"
+          },
+          "Address2": {
+            "jimuName": "Address2",
+            "alias": "Address2",
+            "type": "STRING",
+            "name": "Address2"
+          },
+          "Address3": {
+            "jimuName": "Address3",
+            "alias": "Address3",
+            "type": "STRING",
+            "name": "Address3"
+          },
+          "Neighborhood": {
+            "jimuName": "Neighborhood",
+            "alias": "Neighborhood",
+            "type": "STRING",
+            "name": "Neighborhood"
+          },
+          "City": {
+            "jimuName": "City",
+            "alias": "City",
+            "type": "STRING",
+            "name": "City"
+          },
+          "County": {
+            "jimuName": "County",
+            "alias": "County",
+            "type": "STRING",
+            "name": "County"
+          },
+          "State": {
+            "jimuName": "State",
+            "alias": "State",
+            "type": "STRING",
+            "name": "State"
+          },
+          "ZIP": {
+            "jimuName": "ZIP",
+            "alias": "ZIP",
+            "type": "STRING",
+            "name": "ZIP"
+          },
+          "ZIP4": {
+            "jimuName": "ZIP4",
+            "alias": "ZIP4",
+            "type": "STRING",
+            "name": "ZIP4"
+          },
+          "Country": {
+            "jimuName": "Country",
+            "alias": "Country",
+            "type": "STRING",
+            "name": "Country"
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint"
+    },
+    "dataSource_10": {
+      "id": "dataSource_10",
+      "type": "WEB_MAP",
+      "sourceLabel": "chla",
+      "itemId": "b64f80636c96401ab041eccb8f849475",
+      "portalUrl": "https://oracular.maps.arcgis.com"
+    },
+    "dataSource_11": {
+      "id": "dataSource_11",
+      "type": "WEB_MAP",
+      "sourceLabel": "chla",
+      "itemId": "b64f80636c96401ab041eccb8f849475",
+      "portalUrl": "https://oracular.maps.arcgis.com"
+    },
+    "dataSource_12": {
+      "id": "dataSource_12",
+      "type": "WEB_MAP",
+      "sourceLabel": "chla",
+      "itemId": "b64f80636c96401ab041eccb8f849475",
+      "portalUrl": "https://oracular.maps.arcgis.com"
+    },
+    "dataSource_13": {
+      "id": "dataSource_13",
+      "type": "WEB_MAP",
+      "sourceLabel": "BaseM",
+      "itemId": "bc5be177898d4feaa44f9ef2ebe37c52",
+      "portalUrl": "https://oracular.maps.arcgis.com"
     }
   },
-  "messageConfigs": {},
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_23",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "select-data-record-action-1678343480326",
+          "messageWidgetId": "widget_23",
+          "actionName": "select data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": null,
+            "actionUseDataSource": null,
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.10.0",
+          "useDataSources": []
+        }
+      ]
+    }
+  },
   "pageStructure": [
     {
       "home": []
     }
   ],
-  "timestamp": 1678130880693,
+  "timestamp": 1678426007775,
   "header": {
     "layout": {
       "LARGE": "layout_58"
@@ -1072,6 +1727,22 @@
     },
     "typography": {
       "fontFamilyBase": "SimHei"
+    }
+  },
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": null,
+      "name": "geocode",
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "source": "org",
+      "orgSetting": {
+        "name": "ArcGIS World Geocoding Service",
+        "placefinding": true,
+        "batch": true
+      },
+      "taskName": "ArcGIS World Geocoding Service",
+      "index": 0
     }
   }
 }

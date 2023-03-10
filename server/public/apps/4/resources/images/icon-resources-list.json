@@ -1,39 +1,10 @@
 {
-  "1677909888973.jpg": {
-    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1677909888973.jpg",
+  "1678426002729.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1678426002729.png",
     "properties": {
-      "filename": "1677909888973.jpg",
-      "originalName": "fd.jpg",
-      "path": "${appResourceUrl}/images/icon_picker_in_setting/1677909888973.jpg",
-      "inlineSvg": false
-    }
-  },
-  "null": {
-    "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m8 .5 2.373 5.07L16 6.23l-4.16 3.792 1.104 5.478L8 12.773 3.056 15.5l1.102-5.478L0 6.229l5.625-.66L8 .5Z\" fill=\"#000\"></path></svg>?token=uIMkJAM0wWNwV3DU_Ix0zZIV0l0PZWfIwvdq1R_QOam-mzDteb_HChcO5qZNUUczcBGlCxApESvdt7izQiPtVHlpanhTbdThedOC8tsPpy7zU6R-QN5HfVMk-iyGpTGi2T-HPd3LMfmFJnWzzwV0lm7cwGn_BRBvphbCAB5Na4JOHoFaLK1VE1yJDcHeZr-j6nGTgD1g9mQ0F4TN0wCH0n-EVjICWd8yQvArBzTPolo.?token=hXZAS8O9cesOEm-tJ1sLCDoa0X_LV-I8bmzFxjAAs_m4hOTcO24y003PVRWMloMkcLMCB0FDwzKQJlkUKxFZ55EoRF2rXI7cYL6yIQ8tmpw3FNm8u3kY14pYeazGHaeoOsXJYdYx_0ldhTDMEy7YAaKc2hDAlyg5d-nIFJy1GJfFtPa-yGGvKw221e6FqMk7-mqQNg--rXTrlKe2MxXkd5z5y-i4krG1T22RdhUbc7g.",
-    "properties": {
-      "filename": null,
-      "originalName": null,
-      "path": null,
-      "color": "var(--dark-800)",
-      "size": 16,
-      "inlineSvg": true
-    }
-  },
-  "1677909956823.jpg": {
-    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1677909956823.jpg",
-    "properties": {
-      "filename": "1677909956823.jpg",
-      "originalName": "Imagen de WhatsApp 2023-03-04 a las 00.03.45.jpg",
-      "path": "${appResourceUrl}/images/icon_picker_in_setting/1677909956823.jpg",
-      "inlineSvg": false
-    }
-  },
-  "1677910064557.png": {
-    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1677910064557.png",
-    "properties": {
-      "filename": "1677910064557.png",
-      "originalName": "fd.png",
-      "path": "${appResourceUrl}/images/icon_picker_in_setting/1677910064557.png",
+      "filename": "1678426002729.png",
+      "originalName": "cdom-modified.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1678426002729.png",
       "inlineSvg": false
     }
   }
